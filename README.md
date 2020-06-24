@@ -1,20 +1,26 @@
 #Card Game
 
+This card game prompts the user for the numerical value of two cards. The program returns different results based on what the sum of the two cards is.
+
 IPO
 
 INPUT
-CARD VALUE 1
-CARD VALUE 2
+    
+    CARD VALUE 1
+    CARD VALUE 2
 
 OUTPUT
-"WELCOME"
-SUM OF TWO CARD VALUES
-IF SUM 21, ASTERISK IS DISPLAYED WITH SUM
-"GOODBYE"
+
+    "WELCOME"
+    SUM OF TWO CARD VALUES
+    IF SUM 21, ASTERISK IS DISPLAYED WITH SUM
+    "GOODBYE"
 
 
 
 PROCESS
+
+
 BEGIN
 
     prompt user for card value 1
